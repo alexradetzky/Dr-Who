@@ -1,33 +1,33 @@
-body {
-	font: 20px courier, helvetica, sans-serif;
-	color: #7AFF73;
-	background: #330542;
-	padding: 13px;
-	margin: 5px;}
-td {
-	padding: 10px;
-	background: #330542;
-	border: 3px solid #10A3FF;
-	text-align: center;
-	vertical-align: top; }
-table{
-	border-collapse: collapse;}
-h1{
-	font-size: 25px;}
-h1 , p {
-	margin-top: 20px;
-	margin-bottom: 10px;
-	padding: 3px;}
-a {
-	color: #D640FF;
-	font-weight: bold;}
+body 
+{font: 20px courier, helvetica, sans-serif;
+color: #7AFF73;
+background: #330542;
+padding: 13px;
+margin: 5px;}
+td 
+{padding: 10px;
+background: #330542;
+border: 3px solid #10A3FF;
+text-align: center;
+vertical-align: top; }
+table
+{border-collapse: collapse;}
+h1
+{font-size: 25px;}
+h1 , p 
+{margin-top: 20px;
+margin-bottom: 10px;
+padding: 3px;}
+a 
+{color: #D640FF;
+font-weight: bold;}
 a:hover {
-	color: #00DDFF;
-	font-weight: bold;}
-img{
-	border: 12px solid #6340FF;}
+color: #00DDFF;
+font-weight: bold;}
+img
+{border: 12px solid #6340FF;}
 
-.doctor-main-page td {
-	padding: 50px solid #00DDFF;}
-.doctor-main-page img {
-	border: 50px solid #00DDFF;}
+.doctor-main-page td 
+{padding: 50px solid #00DDFF;}
+.doctor-main-page img 
+{border: 50px solid #00DDFF;}
